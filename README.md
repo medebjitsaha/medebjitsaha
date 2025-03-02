@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Debjit Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Develolping, Data Analytics**
+- 🌱 I’m currently learning **Web Developing, Data Analytics**
 
 - 📫 How to reach me **debjitsahait@gmail.com**
 
