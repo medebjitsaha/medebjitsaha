@@ -1,7 +1,8 @@
 # medebjitsaha
 <h1 align="center">Hi 👋, I'm Debjit Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="img.jpg" alt="Debjit Saha" align="center" style="display: block; margin: 0 auto;">
+<img src=![img jpg](https://github.com/user-attachments/assets/073c9c74-46e1-4450-b0c3-55fd40ab7587)
+"" alt="Debjit Saha" align="center" style="display: block; margin: 0 auto;">
 
 - 🌱 I’m currently learning **Web Developing, Data Analytics**
 
