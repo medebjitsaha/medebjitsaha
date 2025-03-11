@@ -1,8 +1,8 @@
 # medebjitsaha
 
 
-![Uploading DSC_0122.JPG…]()
-<h1 align="center">Hi 👋, I'm Debjit Saha</h1>
+<![DSC_0122](https://github.com/user-attachments/assets/51a94e52-78fd-4da7-a458-d9348f73415e)
+h1 align="center">Hi 👋, I'm Debjit Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Web Developing, Data Analytics**
